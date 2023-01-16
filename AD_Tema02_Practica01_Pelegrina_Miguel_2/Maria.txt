@@ -1,0 +1,23 @@
+{
+"examenes":[
+	{
+	"ccodalu":"002",
+	"ccodcurso":"F001",
+	"nnumexam":1,
+	"defecexam":"",
+	"nnotaexam":0
+	},
+	"ccodalu":"002",
+	"ccodcurso":"F001",
+	"nnumexam":2,
+	"defecexam":"",
+	"nnotaexam":0
+	},
+	"ccodalu":"002",
+	"ccodcurso":"F001",
+	"nnumexam":3,
+	"defecexam":"",
+	"nnotaexam":0
+	}
+]
+}

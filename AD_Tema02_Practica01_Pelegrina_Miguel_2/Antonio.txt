@@ -1,0 +1,35 @@
+{
+"examenes":[
+	{
+	"ccodalu":"001",
+	"ccodcurso":"I001",
+	"nnumexam":1,
+	"defecexam":"2002-02-02",
+	"nnotaexam":10
+	},
+	"ccodalu":"001",
+	"ccodcurso":"I001",
+	"nnumexam":2,
+	"defecexam":"2002-02-02",
+	"nnotaexam":5
+	},
+	"ccodalu":"001",
+	"ccodcurso":"I001",
+	"nnumexam":3,
+	"defecexam":"2002-02-02",
+	"nnotaexam":7
+	},
+	"ccodalu":"001",
+	"ccodcurso":"I001",
+	"nnumexam":4,
+	"defecexam":"2002-02-02",
+	"nnotaexam":8
+	},
+	"ccodalu":"001",
+	"ccodcurso":"I001",
+	"nnumexam":5,
+	"defecexam":"2002-02-02",
+	"nnotaexam":4
+	}
+]
+}

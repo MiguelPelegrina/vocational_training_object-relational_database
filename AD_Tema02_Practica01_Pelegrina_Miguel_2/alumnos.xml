@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+<alumno codigo="001" nombre="Antonio">
+<cursos>
+<curso codigo="I001" nota_media="7" numero_examenes="5">Ingles Basico</curso>
+</cursos>
+</alumno>
+<alumno codigo="002" nombre="Maria">
+<cursos>
+<curso codigo="F001" nota_media="0" numero_examenes="3">Frances Basico</curso>
+</cursos>
+</alumno>
+</alumnos>
